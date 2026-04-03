@@ -30,3 +30,7 @@ void input()
         }
     }
 }
+
+void mergesort(int low, int high)
+{
+}
